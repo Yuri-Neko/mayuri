@@ -2,7 +2,7 @@
 <link href="http://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css">
 <a style='display:scroll;position:fixed;Bottom:0px;left:0px;' title='Mayushii here'><img src='img/left.png' width='500' height='550'/></a> 
 <link rel="stylesheet" type="text/css" href="inc/style.css">
-<script type="text/javascript" src="rain.js"></script>
+<script type="text/javascript" src="inc/rain.js"></script>
 <center>
 <font face=Ubuntu>
 <?php
